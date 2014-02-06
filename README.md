@@ -1,7 +1,7 @@
 js-tdd-exercise
 ===============
 
-javascript tdd with QUnit.
+javascript tdd with [QUnit](http://qunitjs.com/).
 
 [개발왕 김코딩](http://huns.me/category/development/)님의 Javascript TDD 강의 따라하기
 
