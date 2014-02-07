@@ -3,7 +3,7 @@ js-tdd-exercise
 
 javascript tdd with [QUnit](http://qunitjs.com/).
 
-[개발왕 김코딩](http://huns.me/category/development/)님의 Javascript TDD 강의 따라하기
+[개발왕 김코딩](http://huns.me/category/development/)님의 [Javascript TDD](http://huns.me/tag/tdd/) 강의 따라하기
 
 [도전! JavaScript TDD – 2. TDD 리듬](http://huns.me/%EB%8F%84%EC%A0%84-javascript-tdd-2-tdd-%EB%A6%AC%EB%93%AC/)
 
